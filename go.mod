@@ -1,4 +1,4 @@
-module go1x_gin.template
+module labs.course
 
 go 1.16
 

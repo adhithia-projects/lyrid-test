@@ -1,8 +1,8 @@
-name: go1x_gin
+name: labs
 description: App Description
 ignoreFiles: .git
 modules:
-- name: template
+- name: course
   language: go1.x
   web: gin
   description: Module description
